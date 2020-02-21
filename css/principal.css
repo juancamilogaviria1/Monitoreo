@@ -1,0 +1,26 @@
+body{
+    font-family: 'Krona One';
+    font-size: 24px;
+}
+h1{
+    color: blue;
+}
+
+
+main{
+    display: flex;
+}
+
+div{
+    width: 80%;
+}
+
+#principal{
+    color: red;
+}
+
+.colortexto{
+    color: royalblue;
+}
+
+
